@@ -173,7 +173,7 @@ variant_gene_summary:
       cTWAS:
         - FunGen_ctwas.exported.bed.gz
   AD_xQTL_integration_summary:
-    - "AD loci annotated by xQTL summary table (flagship manuscript)"
+    - Figure_5c_AD_loci_xQTL_annotated.rds
     - AD_genes_FunGen_AD_GVC_xQTL_20250325.tsv
     - AD_genes_FunGen_AD_twas_GVC_xQTL_20250325.tsv
 
